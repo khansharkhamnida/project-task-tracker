@@ -179,6 +179,18 @@ The project includes:
 6. Exit
 
 ---
+
+## Requirements
+
+- JDK 21 or later
+
+Verify Java installation:
+
+```bash
+java -version
+```
+
+---
 ## Running the Application
 
 Clone the repository:
