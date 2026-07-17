@@ -177,3 +177,48 @@ The project includes:
 4. Search and Assign Task
 5. Update Task Status
 6. Exit
+
+---
+## Running the Application
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/task-tracker.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd task-tracker
+```
+
+Run the application:
+
+```bash
+./gradlew --console=plain run
+```
+
+Windows:
+
+```bash
+gradlew.bat run
+```
+
+---
+
+## Default Login Credentials
+
+Username:
+
+```
+admin
+```
+
+Password:
+
+```
+password123
+```
+
+
