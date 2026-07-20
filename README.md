@@ -202,7 +202,7 @@ git clone https://github.com/<your-username>/project-task-tracker.git
 Navigate to the project folder:
 
 ```bash
-cd task-tracker
+cd project-task-tracker
 ```
 
 Run the application:
